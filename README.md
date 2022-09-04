@@ -1,0 +1,2 @@
+# WebAppCoreSample
+.Net Core Application
